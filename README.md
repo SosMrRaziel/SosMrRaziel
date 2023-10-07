@@ -17,7 +17,7 @@ I’m always looking for new opportunities to grow as a developer and collaborat
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/razielsos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="razielsos" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelilah laabidat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelilah laabidat" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdelilah-laabidat-743486114" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelilah laabidat" height="30" width="40" /></a>
 </p>
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
