@@ -12,7 +12,7 @@ I’m always looking for new opportunities to grow as a developer and collaborat
 * 🌍  I'm based in morocco
 * ✉️  You can contact me at [alh\_development@outlook.com](mailto:alh_development@outlook.com)
 * 🧠  I'm learning C, C++, Python
-* 🤝  I'm open to collaborating on simple shell
+* 🤝  I'm open to collaboration and new opportunities!
 * ⚡  I’m not lazy, I’m just on energy-saving mode.
 
 ### Skills
